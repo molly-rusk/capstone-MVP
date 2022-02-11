@@ -3,7 +3,7 @@
 ### Parts of the Data Analysis MVP
 
 1. Specific question: Are drug overdoses increasing in the U.S. from 2018 to 2019, and which states show an increase or decrease? 
-2. Purpose: If drug overdose deaths are increasing we need a drug reform.
+2. Purpose: Determine if drug overdose deaths are an increasing problem.
 3. Data sources:
     - https://www.cdc.gov/drugoverdose/deaths/2018.html
     - https://www.cdc.gov/drugoverdose/deaths/2019.html
